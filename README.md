@@ -1,4 +1,4 @@
-bashblog
+bashblog HRE(amazinStranger)
 ========
 
 A single Bash script to create blogs. 
